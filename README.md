@@ -1,4 +1,4 @@
-# DAM2---PI2-Fast-Food
+# DAM2-PI2-Fast-Food
 
 El proyecto tiene como objetivo diseñar y desarrollar una base de datos relacional que permita gestionar de manera eficiente la información de “FastFood”, facilitando el acceso a datos clave sobre productos, clientes, órdenes y empleados. A través de la implementación de un esquema de base de datos bien estructurado, se busca optimizar las operaciones del negocio y mejorar la toma de decisiones estratégicas basadas en análisis de datos.
 
